@@ -17,3 +17,6 @@ export const config = {
 
 pnpm create sanity@latest --project v03kh79u --dataset production --template clean --typescript --output-path studio-onlinestore
 cd studio-onlinestore
+
+apo token 
+sk2mifcHuNpwrNQGZVzDhwKZeNfY54LHu9I1TdUB9hOMZcp4ZAEpnPZIfyt2DBXSuxxuBuJbKp5nf9AGKuPhtPo3dyGV70CcPbuMkxb96IoUFUfYEMvMYLkXjZLESDhnoT2U16gUGvgpJi72B8r57fxtghhmKbP9helspzvSG5mEFroSg7d3
