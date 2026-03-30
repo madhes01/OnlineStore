@@ -14,3 +14,6 @@ export const config = {
     '/(api|trpc)(.*)',
   ],
 };
+
+pnpm create sanity@latest --project v03kh79u --dataset production --template clean --typescript --output-path studio-onlinestore
+cd studio-onlinestore
